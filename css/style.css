@@ -1,0 +1,18 @@
+.container {
+    padding: 15px;
+}
+
+.headline1 {
+    flex-grow: 0;
+    flex-basis: 200px;
+}
+
+.headline2 {
+    flex-grow: 0;
+    flex-basis: 700px;
+}
+
+.actions {
+    flex-basis: 70px;
+
+}
