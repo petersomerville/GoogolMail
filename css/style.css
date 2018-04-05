@@ -1,0 +1,28 @@
+.container {
+    padding: 15px;
+}
+
+.header {
+    padding-bottom: 15px;
+    border-bottom: 1px solid gray;
+    margin-bottom: 15px;
+}
+
+.headline1 {
+    flex-grow: 0;
+    flex-basis: 200px;
+}
+
+.headline2 {
+    flex-grow: 0;
+    flex-basis: 700px;
+}
+
+.actions {
+    flex-basis: 70px;
+
+}
+
+.composehead {
+padding-bottom: 15px;
+}
